@@ -20,3 +20,5 @@ class Dice:
 dice1 = Dice(0)
 dice1.rollDice()
 dice1.printDice()
+####################
+####################
